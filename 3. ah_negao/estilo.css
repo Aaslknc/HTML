@@ -1,0 +1,74 @@
+body {
+	background: #58155A;
+	font: 16px Verdana;
+}
+
+#principal {
+	padding: 30px;
+
+}
+
+#menu {
+
+	background: #520D5B;
+
+}
+
+.links {
+	text-align: right;
+}
+
+.logo {
+	text-align: left;
+}
+
+#conteudo {
+	width: 900px;
+	background: white;
+	padding: 15px;
+}
+
+.titulos {
+	color: #58155A;
+
+}
+
+.datas {
+	color: #858585;
+}
+
+.autor {
+	color: #939393;
+}
+
+.rodape {
+	font-weight: bold;
+	text-align: center;
+	color: #58155A;
+	font-size: 2.5rem;
+}
+
+.memes {
+	width: 800px;
+}
+
+.link {
+	color: #BF0EBB;
+}
+
+.center {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+
+}
+
+a:hover {
+	color: #8B1C8F;
+}
