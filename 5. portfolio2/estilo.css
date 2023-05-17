@@ -1,0 +1,41 @@
+/* formatacoes gerais */
+
+body {
+	background: #E6E6E6;
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 6em;
+	margin: 0px;
+}
+
+a {
+	color: #2600FF;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color: #00cbff;
+}
+
+/* formatacao no conteudo */
+
+#container {
+	width: 1000px;
+	margin: 10px auto;
+	text-align: justify;
+	background: white;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+#subtitulo {
+	font-size: 0.8em;
+	
+}
